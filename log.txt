@@ -1,0 +1,86 @@
+May 28, 2022 1:25:40 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 1:26:50 PM homework1.GUI actionPerformed
+INFO: Username:rdtfghjk
+May 28, 2022 1:26:50 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:26:50 PM homework1.GUI actionPerformed
+INFO: Login time:13:25:40.345409
+May 28, 2022 1:27:01 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:31:56 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 1:33:10 PM homework1.GUI actionPerformed
+INFO: Username:sdfdgfghj
+May 28, 2022 1:33:10 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:33:10 PM homework1.GUI actionPerformed
+INFO: Login time:13:31:56.081304
+May 28, 2022 1:33:12 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:33:14 PM homework1.GUI actionPerformed
+INFO: Username:sdfdgfghj
+May 28, 2022 1:33:14 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:33:14 PM homework1.GUI actionPerformed
+INFO: Login time:13:31:56.081304
+May 28, 2022 1:33:15 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:33:20 PM homework1.GUI actionPerformed
+INFO: Username:sdfdgfghj
+May 28, 2022 1:33:20 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:33:20 PM homework1.GUI actionPerformed
+INFO: Login time:13:31:56.081304
+May 28, 2022 1:33:22 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:33:35 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 1:33:40 PM homework1.GUI actionPerformed
+INFO: Username:zsxfdcgfvhgb
+May 28, 2022 1:33:40 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:33:40 PM homework1.GUI actionPerformed
+INFO: Login time:13:33:35.739812
+May 28, 2022 1:33:41 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:37:52 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 1:37:57 PM homework1.GUI actionPerformed
+INFO: Username:ewsrdtghjnkj
+May 28, 2022 1:37:57 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:37:57 PM homework1.GUI actionPerformed
+INFO: Login time:13:37:52.397268
+May 28, 2022 1:37:59 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:38:03 PM homework1.GUI actionPerformed
+INFO: Username:ewsrdtghjnkj
+May 28, 2022 1:38:03 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:38:03 PM homework1.GUI actionPerformed
+INFO: Login time:13:37:52.397268
+May 28, 2022 1:38:04 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 1:38:15 PM homework1.GUI actionPerformed
+INFO: Username:username
+May 28, 2022 1:38:15 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 1:38:15 PM homework1.GUI actionPerformed
+INFO: Login time:13:37:52.397268
+May 28, 2022 1:38:17 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
+May 28, 2022 2:01:00 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 2:02:15 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 2:46:17 PM homework1.GUI <init>
+INFO: logger is working
+May 28, 2022 2:46:29 PM homework1.GUI actionPerformed
+INFO: Username:srdtfyghjlk,
+May 28, 2022 2:46:29 PM homework1.GUI actionPerformed
+INFO: Login Date:2022-05-28
+May 28, 2022 2:46:29 PM homework1.GUI actionPerformed
+INFO: Login time:14:46:17.789458
+May 28, 2022 2:46:33 PM homework1.GUI actionPerformed
+INFO: Username or password was invalid
